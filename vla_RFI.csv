@@ -1,0 +1,62 @@
+﻿Frequency,Description,Origin,Classification
+1000,RATSCAT Low FQ,"NM, WSMR",Intermittent
+1030,"Aeronautical IFF, gnd2air","OHD, Everywhere",Intermittent
+1025-1150,Aircraft navigation DME,DME/VOR sites,intermittent
+1090,"Aeronautical IFF, air2gnd","OHD, Everywhere",Intermittent
+1166-1186,"GPS,Galileo,GLONASS L5","OHD, MEO",Continuous
+1200,VLA modem,VLA Site,Continuous
+1222.5-1223.5,TARS Pulsed radar,"AZ, Ft Huachuca,",Pulsed & intermittent
+1217-1237,GPS L2,"OHD, MEO",Continuous
+1231,AEROSTAT,"TX, FT Bliss",Malfunction
+1233.71,FAA ARSR4 radar,,Continuous
+1235,AEROSTAT,,Malfunction
+1243-1251,GLONASS L2,"OHD, MEO",Continuous
+1251.5-1252.5,TARS pulsed radar,"NM, Deming",Pulsed & Intermittant
+1254.42,FAA ARSR4 radar,"NM, Deming",Continuous
+1262.19,FAA ARSR4 radar,"NM, Eagle Peak",Continuous
+1268,COMPASS E6,,
+1282.5-1283.5,TARS pulsed radar,"AZ, Ft Huachuca",Pulsed & Intermittant
+1291,AEROSTAT,"TX, FT Bliss",Malfunction
+1295,AEROSTAT,"TX, FT Bliss",Malfunction
+1310,FAA ASR radar,"NM, Albuquerque",Continuous
+1311.5-1312.5,TARS pulsed radar,"NM, Deming",Pulsed & Intermittant
+1317,FAA ARSR4 radar,,Continuous
+1330,FAA ASR radar,"NM, Albuquerque",
+1337.28,FAA ARSR4 radar,"NM, Deming",Continuous
+1345.04,FAA ARSR4 radar,"NM, Eagle Peakk",Continuous
+1357,WSMR RAJPO transponder,"NM, WSMR",Intermittent
+1365,WSMR RAJPO transponder,"NM, WSMR",Intermittent
+1369,WSMR RAJPO transponder,"NM, WSMR",Intermittent
+1376-1386,GPS L3 NUDET,OHD,Intermittent
+1385,WSMR RAJPO transponder,"NM, WSMR",Intermittent
+1393,WSMR RAJPO transponder,"NM, WSMR",Intermittent
+1400,internal birdie,ea13,continuous
+1408,internal birdie,numerous antennas,continuous
+1432.5,WSMR RAJPO transponder,"NM, WSMR",Intermittent
+1437-1453,WSMR telemetry,"NM, WSMR",Intermittent
+1444.5,High alt balloon,"NM, FT Sumner",Intermittent
+1448.5,Test telemetry,"NM, FT Bliss",Intermittent
+1452.5,Test telemetry,"NM, FT Bliss",Intermittent
+1453.5,High alt baloon,"NM, FT Sumner",Intermittent
+1460.5,Test telemetry,"NM, FT Bliss",Intermittent
+1501.5,High alt baloon,"NM, FT Sumner",Intermittent
+1504.5,WSMR jamming telemetry,"NM, WSMR",Intermittent
+1515.5,High alt baloon,"NM, FT Sumner",Intermittent
+1525-1564,INMARSAT satellites,,
+1525.5,High alt baloon,"NM, FT Sumner",Intermittent
+1529.5,Test telemetry,"NM, FT Bliss",Intermittent
+1530.5,WSMR jamming telemetry,"NM, WSMR",Intermittent
+1565.42,GPS L1 jamming,"NM, WSMR",Continuous
+1564-1586,GPS L1,OHD,Continuous
+1585.42,GPS L1 jamming,"NM, WSMR",Continuous
+1606,GLONASS L1,OHD,Continuous
+1616,GLONASS L1,OHD,Continuous
+1618-1627,IRIDIUM satellites,OHD,Continuous
+1642,2nd harmonic VLA radios,,Sporadic
+1668-1680,RADIOSONDES- WX baloons,,Intermittent
+1683-1687,GOES weather satellite,,
+1689-1693,GOES weather satellite,,
+1700-1702,NOAA weather satellite,,
+1705-1709,NOAA weather satellite,,
+1771,High alt baloon,"NM, FT Sumner",Intermittent
+1850-1990,PCS cell phone base stations,Everywhere,Continuous
